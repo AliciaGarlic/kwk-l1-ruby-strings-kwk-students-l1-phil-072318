@@ -1,7 +1,7 @@
 # Code your prompts here!
 
 # Try starting out with puts'ing a string.
-puts "What is the guest's name?"
+puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp
 puts "What is the party name?"
 party_name = gets.chomp
